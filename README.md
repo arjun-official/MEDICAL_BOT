@@ -27,7 +27,7 @@ An **AI-assisted, rule-based** chatbot that predicts likely conditions from user
 
 ## 🚀 Getting Started
 # 1) Clone
-git clone https://github.com/<your-username>/Medical_Bot.git
+https://github.com/arjun-official/Medical_Bot.git
 cd Medical_Bot
 
 # 2) Install
